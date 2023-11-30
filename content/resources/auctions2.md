@@ -4,6 +4,7 @@ description: This file discusses about IPV and revenue equivalence, risk-averse 
   budget-constrained bidders, asymmetric bidders, resale and efficiency, collusion,
   multi-unit auctions, interdependent values, second-price auction, and linkage principle.
 file: /media/courses/14-129-advanced-contract-theory-spring-2005/008e9fbe5f24abfe3b4e1a1a97157660_auctions2.pdf
+file_size: 126315
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

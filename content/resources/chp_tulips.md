@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /media/courses/14-129-advanced-contract-theory-spring-2005/0d311e68c0ef187c6e99e4dc62ff8d37_chp_tulips.jpg
+file_size: 65387
 file_type: image/jpeg
 image_metadata:
   caption: "Named after the famous tulip bulb auctions of the Netherlands in the 17th\

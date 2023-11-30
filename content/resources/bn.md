@@ -5,6 +5,7 @@ description: 'This file includes the following topics:
   A general incomplete information setting, direct mechanisms and revelation principle,
   and references.'
 file: /media/courses/14-129-advanced-contract-theory-spring-2005/836ada631511878a7a066563be1e235f_bn.pdf
+file_size: 163435
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

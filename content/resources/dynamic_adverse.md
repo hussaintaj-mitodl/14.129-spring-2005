@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /media/courses/14-129-advanced-contract-theory-spring-2005/e23e6b7cf8a65f337c1cace86b93cff5_dynamic_adverse.pdf
+file_size: 77353
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

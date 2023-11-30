@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /media/courses/14-129-advanced-contract-theory-spring-2005/dd348bac3c837043afefeaefb6e5176b_simple_models.pdf
+file_size: 160358
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

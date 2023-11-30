@@ -2,6 +2,7 @@
 content_type: resource
 description: This file includes 3 problems from the text book of "Bolton and Dewatripont".
 file: /media/courses/14-129-advanced-contract-theory-spring-2005/496bf67d2f58e59d884bb6ce7b3dba86_hw2.pdf
+file_size: 27741
 file_type: application/pdf
 learning_resource_types:
 - Assignments
