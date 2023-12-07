@@ -4,7 +4,7 @@ description: This file discusses about notable features of auctions, notation, c
   auctions, first-price auction, second-price auction, mechanisms, revelation principle,
   incentive compatibility, revenue equivalence, an application of revenue equivalence,
   and individual rationality.
-file: /media/courses/14-129-advanced-contract-theory-spring-2005/5a2552d9c0af13924e617d033d724e55_auctions1.pdf
+file: /courses/14-129-advanced-contract-theory-spring-2005/5a2552d9c0af13924e617d033d724e55_auctions1.pdf
 file_size: 135587
 file_type: application/pdf
 learning_resource_types:

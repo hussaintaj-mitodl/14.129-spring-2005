@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes discussion on topic DG monopoly with fixed types.
-file: /media/courses/14-129-advanced-contract-theory-spring-2005/c3dc48ccbfdd55a424aaacd2acdbef10_dynamic.pdf
+file: /courses/14-129-advanced-contract-theory-spring-2005/c3dc48ccbfdd55a424aaacd2acdbef10_dynamic.pdf
 file_size: 66347
 file_type: application/pdf
 learning_resource_types:

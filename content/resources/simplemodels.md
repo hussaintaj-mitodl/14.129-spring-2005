@@ -3,7 +3,7 @@ content_type: resource
 description: This file includes discussion on hidden information, Akerlof's Lemons,
   one seller, one buyer, credit rationing, multiple types, Spence's model, Maskin
   and Tirole problem, hidden action, Grossman and Hart approach.
-file: /media/courses/14-129-advanced-contract-theory-spring-2005/5e15e75d5081a3be52ee322dfccd86ab_simplemodels.pdf
+file: /courses/14-129-advanced-contract-theory-spring-2005/5e15e75d5081a3be52ee322dfccd86ab_simplemodels.pdf
 file_size: 114544
 file_type: application/pdf
 learning_resource_types:

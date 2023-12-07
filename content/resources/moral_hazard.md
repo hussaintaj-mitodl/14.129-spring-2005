@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-129-advanced-contract-theory-spring-2005/d22538aa542ff51371813cff5ca4044b_moral_hazard.pdf
+file: /courses/14-129-advanced-contract-theory-spring-2005/d22538aa542ff51371813cff5ca4044b_moral_hazard.pdf
 file_size: 182198
 file_type: application/pdf
 learning_resource_types:
